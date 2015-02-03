@@ -15,6 +15,7 @@ REQUERIMIENTOS
   
   * Librerias 
   https://github.com/pololu/zumo-shield
+  https://github.com/ivajo26/Ultrasonido-HC-SR06
   
   *Sensor de ultrasonido 
   http://didacticaselectronicas.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=1244&category_id=45&option=com_virtuemart&Itemid=141
